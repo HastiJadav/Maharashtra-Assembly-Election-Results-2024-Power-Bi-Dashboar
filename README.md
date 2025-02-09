@@ -16,7 +16,7 @@ Thrilled to unveil an interactive Power BI dashboard that transforms Maharashtra
 
 ### **📂 Files in this Repository**
 - `Maharashtra_Election_2024.pbix` – Power BI dashboard file  
-- `Dataset.csv` – Source dataset (if shareable)  
+- `Dataset.csv` – Source dataset 
 - `README.md` – Project documentation  
 
 ### **🚀 How to Use**
@@ -24,8 +24,8 @@ Thrilled to unveil an interactive Power BI dashboard that transforms Maharashtra
 2. **Open it in Power BI Desktop** to explore the insights.  
 
 ### **📢 Let's Connect!**
-📌 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-📌 GitHub: [Your GitHub Profile](https://github.com/your-profile)  
+📌 LinkedIn: https://www.linkedin.com/in/hasti-jadav-91a210238/
+📌 GitHub: https://github.com/HastiJadav
 
 ---
 ### **📌 Hashtags**
